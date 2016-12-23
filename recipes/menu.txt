@@ -1,1 +1,5 @@
 20 apple pie
+
+apple 20
+orange 40
+coconut 10
